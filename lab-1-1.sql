@@ -13,4 +13,4 @@
 -- | 2020 | Washington Nationals              |
 -- +------+-----------------------------------+
 
---SELECT team, year FROM teams 
+SELECT name, year FROM teams; 
